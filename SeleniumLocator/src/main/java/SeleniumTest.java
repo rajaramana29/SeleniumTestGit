@@ -12,7 +12,7 @@ public class SeleniumTest {
 		driver.get("https://www.hindustanuniv.ac.in/");
 		//driver.findElement(By.id("query-input")).sendKeys("query-input");
 		driver.findElement(By.linkText("Covid 19")).click();
-
+                 //just_change
 	}
 
 }
